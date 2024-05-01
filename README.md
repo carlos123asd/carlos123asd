@@ -43,8 +43,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
  <h3>Mis Estadisticas</h3>
-<p><img align="center" width="100%" height="400vh" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos123asd&" alt="carlos123asd" /></p>
-<p><img align="center" width="100%" height="400vh" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos123asd&show_icons=true&locale=en&layout=compact" alt="carlos123asd"/></p>
+<p><img align="center" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=carlos123asd&" alt="carlos123asd" /></p>
+<p><img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos123asd&show_icons=true&locale=en&layout=compact" alt="carlos123asd"/></p>
 
 
   
